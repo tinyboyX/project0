@@ -1,0 +1,19 @@
+html{
+    background: url(spiderman.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover; 
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    background-color:white;
+  }
+  
+  td, th {
+    border: 1.3px solid black ;
+    text-align: center;
+    padding: 8px;
+
+  }
